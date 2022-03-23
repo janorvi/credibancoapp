@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/item_1"
-        android:icon="@drawable/ic_launcher_foreground"
-        android:title="Item 1"/>
+        android:id="@+id/search_item"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"/>
     <item
-        android:id="@+id/item_2"
-        android:icon="@drawable/ic_launcher_foreground"
-        android:title="Item 2"/>
-    <item
-        android:id="@+id/item_3"
-        android:icon="@drawable/ic_launcher_foreground"
-        android:title="Item 3"/>
-    <item
-        android:id="@+id/item_4"
-        android:icon="@drawable/ic_launcher_foreground"
-        android:title="Item 4"/>
+        android:id="@+id/authorization_item"
+        android:icon="@drawable/ic_baseline_check_24"
+        android:title="Authorization"/>
 </menu>
